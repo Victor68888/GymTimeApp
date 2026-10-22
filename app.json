@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Gym Time",
+    "slug": "gym-time",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.gymtime.app"
+    },
+    "android": {
+      "package": "com.gymtime.app",
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "name": "Gym Time",
+      "backgroundColor": "#a0d2c8"
+    },
+    "backgroundColor": "#a0d2c8"
+  }
+}
